@@ -13,7 +13,6 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bonaxcrimo/v3/main/src/images/demo.png)
 
 
 ### TL;DR
