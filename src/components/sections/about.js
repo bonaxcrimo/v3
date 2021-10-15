@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Laravel', 'Codeigniter', 'Javascript', 'Hugo', 'Node.js', 'WordPress'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,30 +136,27 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Bona Tua from Indonesia.Since the beginning of college I have been a
+              freelance web developer, sometimes I also take mobile but the simple one due to the
+              limitations of my device, my first mobile project used Ionic because it used to be
+              light and supported for my old laptop.
             </p>
-
+            <p>
+              After graduating from college with majoring in Mobile and Web Development,I decided to
+              become a FullStack Mobile and Web Developer.
+            </p>
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              <a href="https://www.mikroskil.ac.id/">college</a>,{' '}
+              <a href="https://www.transporindo.com/">a trasportation company</a>, and{' '}
+              <a href="http://sisda.sumutprov.go.id/">a government office</a>. My main focus these
+              days is lead small developer team for building mobile and website app for Music
+              Distribution Company at <a href="http://premierpro.co.id/">Premi Musik Era</a>.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              I also <a href="https://medanincode.com/">have a blog</a> to learn various kinds of
+              web and mobile programming and have free book for you.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
