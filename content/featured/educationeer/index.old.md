@@ -1,6 +1,7 @@
 ---
-date: '2021-11-20'
+date: '3'
 title: 'Hugo Alexa Portfolio'
+cover: './hugo-alexa-min.png'
 github: 'https://github.com/Bonzdev/alexa-portfolio'
 android: ''
 ios: ''
@@ -10,7 +11,6 @@ tech:
   - JS
   - SCSS
 company: 'BonzDev'
-showInProjects: false
 ---
 
 A high performance and mobile first hugo template for personal portfolio using dark and light mode. HTML design using a template from Bedimcode Youtube with some modifications and convert to hugo by me.

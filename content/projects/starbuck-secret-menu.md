@@ -8,7 +8,7 @@ tech:
   - Flutter
   - Firebase
 company: 'BonzDev'
-showInProjects: false
+showInProjects: true
 ---
 
 Starbucks Secret Menu open-source simple secret menu app for Android. It is built with Dart on top of Google's Flutter Framework.
